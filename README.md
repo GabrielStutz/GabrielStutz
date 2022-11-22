@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently looking for work.
 - 🌱 I’m currently learning CSS, HTML and JavaScript.
-- ⚡ Hobbies: I like to play games and plactice sports.
+- ⚡ Hobbies: I like to play games and practice sports.
 
 <div align="center">
   <a href="https://github.com/GabrielStutz">
