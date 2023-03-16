@@ -1,8 +1,8 @@
 ### Hi there, I'm Gabriel Vieira Stutz 👋
 
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning CSS, HTML and JavaScript.
-- ⚡ Hobbies: I like to play games and practice sports.
+- 🔭 I’m working for Unimed Londrina.
+- 🌱 I’m currently learning CSS, HTML, JavaScript and Java.
+- ⚡ Hobbies: I like to play games, practice sports and read.
 
 <div align="center">
   <a href="https://github.com/GabrielStutz">
